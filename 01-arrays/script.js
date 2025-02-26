@@ -39,7 +39,7 @@ console.log(isFabioPresent)
 
 // 8. Trova l'indice dell'insegnante 'Lewis' nell'array teachers
 // e salvalo nella variabile lewisIndex
-const lewisIndex = teachers.indexOf("Lewis") + 1 ;
+const lewisIndex = teachers.indexOf("Lewis") ;
 console.log(lewisIndex);
 
 // 9. Unisci tutti gli insegnanti nell'array teachers in una stringa
